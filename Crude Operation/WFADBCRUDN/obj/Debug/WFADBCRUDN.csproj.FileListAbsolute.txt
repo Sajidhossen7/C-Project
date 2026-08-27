@@ -1,0 +1,21 @@
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\bin\Debug\WFADBCRUDN.exe.config
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\bin\Debug\WFADBCRUDN.exe
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\bin\Debug\WFADBCRUDN.pdb
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.FormDashboard.resources
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.Properties.Resources.resources
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.csproj.GenerateResource.cache
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.exe
+C:\Users\HASIB\Dropbox\AIUB\30. Summer 2024-25\OOP-2\Projects\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.pdb
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\bin\Debug\WFADBCRUDN.exe.config
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\bin\Debug\WFADBCRUDN.exe
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\bin\Debug\WFADBCRUDN.pdb
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.csproj.AssemblyReference.cache
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.exe.config
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.FormDashboard.resources
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.Properties.Resources.resources
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.csproj.GenerateResource.cache
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.csproj.CoreCompileInputs.cache
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.exe
+S:\STUDY\6th semester Summer 24-25\C#\Sir project\WFADBCRUDN (2)\WFADBCRUDN\WFADBCRUDN\obj\Debug\WFADBCRUDN.pdb

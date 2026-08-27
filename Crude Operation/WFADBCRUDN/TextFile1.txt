@@ -1,0 +1,25 @@
+﻿
+public class Program
+{
+	public static void Main()
+	{
+		 // create string
+      string str1 = "C# is a Programming 12";
+      string str2 = "C# Programming1";
+      string str3 = "Programiz";
+      
+		Console.WriteLine(str1.Equals(str2));
+	  Console.WriteLine(str1.CompareTo(str2));
+		Console.WriteLine(str1.Contains("is"));
+		Console.WriteLine(str1.IndexOf('a'));
+		Console.WriteLine(str1.Insert(2, "hello"));
+		Console.WriteLine(str1.Replace('a','z'));
+		Console.WriteLine(str1.Remove(4));
+		Console.WriteLine(str1.Remove(4,5));
+		Console.WriteLine(str1.Substring(4, 5));
+		string[] s = str1.Split('a');
+		foreach(var t in s)
+			Console.WriteLine(t);
+		Console.WriteLine(string.
+	}
+}
